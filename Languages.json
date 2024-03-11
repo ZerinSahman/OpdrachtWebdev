@@ -1,192 +1,232 @@
 [
-	{
-		"id": "LANG-001",
-		"name": "Sanskrit",
-		"description": "An ancient tongue, though of to be the first spoken language in human history.",
-		"age": 10000, 
-		"isUsed": false,
-		"startPeriod": "c.a. 8000 b.c.e.",
-		"scriptIMGUrl": "https://en.wikipedia.org/wiki/File:Brahmi_pillar_inscription_in_Sarnath.jpg",
-		"languageFamily": "Indo-Aryan",
-		"knownPoets": ["Bharavi","Dandin","Bhasa"],
-		"continent": "Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-001",
-			"currentLeader": "Modi",
-			"countryFlagUrl": "https://en.wikipedia.org/wiki/File:Flag_of_India.svg",
-			"foundingYear": 1947,
-			"knownPhrase": "सत्यमेव जयते",
-		}
-	},
-	{
-		"id": "LANG-002",
-		"name": "Tibetan",
-		"description": "A language spoken by the ancient Turkic tribes which migrated into the Himalayas.",
-		"age": 1300, 
-		"isUsed": true,
-		"startPeriod": "c.a. 700 c.e.", 
-		"scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Om_Mani_Padme_Hum_mantra.svg/1920px-Om_Mani_Padme_Hum_mantra.svg.png",
-		"languageFamily": "sino-tibetan",
-		"knownPoets": ["Milarepa","Tenzin-Gyatso","Kelden-Gyatso"],
-		"continent": "Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-002",
-			"currentLeader": "Xi Jinping",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-			"foundingYear": 1949,
-			"knownPhrase": "为人民服务",
-		}
-	},
-	{
-		"id": "LANG-003",
-		"name": "Serbian",
-		"description": "A Slavic language from the Dinarian Alps.",
-		"age": 800, 
-		"isUsed": true,
-		"startPeriod": "c.a. 1200 c.e.", 
-		"scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Serbian_Cyrillic_alphabet_%28%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0_%D1%9B%D0%B8%D1%80%D0%B8%D0%BB%D0%B8%D1%86%D0%B0%29.svg",
-		"languageFamily": "Slavic",
-		"knownPoets": ["Petar Petrovic Njegos","Darinka Jevric","Jovan Jovanovic"],
-		"continent": "Europe",
-		"countryOfOrigin": {
-			"id": "CTRY-003",
-			"currentLeader": "Alexander Vucic",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
-			"foundingYear": 2006,
-			"knownPhrase": "За слободу и част Отаџбине",
-		}
-	},
-	{
-		"id": "LANG-004",
-		"name": "Japanese",
-		"description": "A complicated concoction, stemming from an unlikely place.",
-		"age": 1300, 
-		"isUsed": true,
-		"startPeriod": "c.a. 800 c.e.", 
-		"scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Heibon-pp.10-11.jpg",
-		"languageFamily": "Altai",
-		"knownPoets": ["Musashi Miyamoto","Murasaki Shikibu","Jun Tsuji"],
-		"continent": "Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-004",
-			"currentLeader": "Fumio Kishida",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
-			"foundingYear": 1868,
-			"knownPhrase": "万歳",
-		}
-	},
-	{
-		"id": "LANG-005",
-		"name": "Standard-Mandarin-Chinese",
-		"description": "A tonal language spoken as the official language of the P.R.C.",
-		"age": 2500, 
-		"isUsed": true,
-		"startPeriod": "c.a. 500 b.c.e.", 
-		"scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hanzi.svg",
-		"languageFamily": "sino-tibetan",
-		"knownPoets": ["kong-zi","lao-zi","sun-zi"],
-		"continent": "Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-002",
-			"currentLeader": "Xi Jinping",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
-			"foundingYear": 1949,
-			"knownPhrase": "为人民服务",
-		}
-	},
-	{
-		"id": "LANG-006",
-		"name": "Persian",
-		"description": "Another ancient language deep in history, and rich in culture.",
-		"age": 1300, 
-		"isUsed": true,
-		"startPeriod": "c.a. 800 c.e.", 
-		"scriptIMGUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYwTTvPWhbUF99_Q5BwUixdo6PruhjIv57MwyKhcmb8qPBIOn4yr7V6ByIp9Zj0K9LzHzpXHfF90evDnmzZzjF6TwE3JqHnwHnNyH5rB-nm9T8qHcRIKT02q_uu3xTCzv77SSfnZpCsYU/s1600/First+page+of+Kitab-i-Aqdas+-+handwriting+of+Abdu%27l-Baha-1.jpg",
-		"languageFamily": "Indo-Aryan",
-		"knownPoets": ["Jalāl al-Dīn Muḥammad Rūmī","Farid ud-Din Attar","Ghiyāth al-Dīn Abū al-Fatḥ ʿUmar ibn Ibrāhīm Nīsābūrī"],
-		"continent": "Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-005",
-			"currentLeader": "Ali Khamenei",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/510px-Flag_of_Iran.svg.png",
-			"foundingYear": 1501,
-			"knownPhrase": "جنگ، جنگ، تا پیروزی",
-		}
-	},
-	{
-		"id": "LANG-007",
-		"name": "Arabic",
-		"description": "A very extensive language with quite the history.",
-		"age": 2500, 
-		"isUsed": true,
-		"startPeriod": "c.a. 500 b.c.e.", 
-		"scriptIMGUrl": "https://talkinarabic.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbufag4ro%2Fproduction%2Fcb1073d722488a130d822921ae099a7cbe200c8e-1280x720.jpg%3Fq%3D70&w=1920&q=50",
-		"languageFamily": "semitic",
-		"knownPoets": ["Abū ʻAbd Allāh Muḥammad ibn ʻArabī al-Ṭāʼī al-Ḥātimī","Abū al-ʿAlāʾ al-Maʿarrī ","Abū Nuwās al-Ḥasan ibn Hānī al-Ḥakamī"],
-		"continent": "Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-006",
-			"currentLeader": "Salman bin Abdulaziz",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1920px-Flag_of_Saudi_Arabia.svg.png",
-			"foundingYear": 1932,
-			"knownPhrase": "لَا إِلٰهَ إِلَّا الله مُحَمَّدٌ رَسُولُ الله",
-		}
-	},
-	{
-		"id": "LANG-008",
-		"name": "French",
-		"description": "A romantic language spoken by some of the greatest scientists know to Europe.",
-		"age": 1200, 
-		"isUsed": true,
-		"startPeriod": "c.a. 850 c.e.",
-		"scriptIMGUrl": "https://media.istockphoto.com/id/157506315/fr/photo/les-deux-c%C3%B4t%C3%A9s-de-larm%C3%A9e-britannique-carte-postale-envoy%C3%A9-depuis-la-france-1915.jpg?s=612x612&w=is&k=20&c=r3eYHeY3j6jzfUJqHRrdGtpbCvRAz0w6-u0gKv742DQ=",
-		"languageFamily": "Romance",
-		"knownPoets": ["Charles Baudelaire","Victor Hugo","Arthur Rimbaud"],
-		"continent": "Europe",
-		"countryOfOrigin": {
-			"id": "CTRY-007",
-			"currentLeader": "Emmanuel Macron",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png",
-			"foundingYear": 1792,
-			"knownPhrase": "Liberté, égalité, fraternité",
-		}
-	},
-	{
-		"id": "LANG-009",
-		"name": "Russian",
-		"description": "A Slavic language spoken in one of the, if not coldest place on earth.",
-		"age": 1160, 
-		"isUsed": true,
-		"startPeriod": "862 c.e.", 
-		"scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Russian_Cyrillic_alphabet.svg/1920px-Russian_Cyrillic_alphabet.svg.png",
-		"languageFamily": "Slavic",
-		"knownPoets": ["Fjodor Dostojevsky","Leo Tolstoy","Alexander Pushkin"],
-		"continent": "Europe/Asia",
-		"countryOfOrigin": {
-			"id": "CTRY-008",
-			"currentLeader": "Vladimir Putin",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png",
-			"foundingYear": 1991,
-			"knownPhrase": "Нас Рать",
-		}
-	},
-	{
-		"id": "LANG-010",
-		"name": "Latin",
-		"description": "An ancient language known as the language of Europe's former glory.",
-		"age": 2700, 
-		"isUsed": false,
-		"startPeriod": "c.a. 700 b.c.e.", 
-		"scriptIMGUrl": "https://www.thoughtco.com/thmb/Sl1sBMHYlNM_WHsozrmQqncwNKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-852354592-5c71dc9846e0fb0001f87ce0.jpg",
-		"languageFamily": "Indo-European",
-		"knownPoets": ["Ovid","Horace","Virgil"],
-		"continent": "Europe",
-		"countryOfOrigin": {
-			"id": "CTRY-009",
-			"currentLeader": "Giorgia Meloni",
-			"countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png",
-			"foundingYear": 1861,
-			"knownPhrase": "Senatus Populusque Romanus",
-		}
-	}
+    {
+        "id": "LANG-001",
+        "name": "Sanskrit",
+        "description": "An ancient tongue, though of to be the first spoken language in human history.",
+        "age": 10000,
+        "isUsed": false,
+        "startPeriod": "c.a. 8000 b.c.e.",
+        "scriptIMGUrl": "https://en.wikipedia.org/wiki/File:Brahmi_pillar_inscription_in_Sarnath.jpg",
+        "languageFamily": "Indo-Aryan",
+        "knownPoets": [
+            "Bharavi",
+            "Dandin",
+            "Bhasa"
+        ],
+        "continent": "Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-001",
+            "currentLeader": "Modi",
+            "countryFlagUrl": "https://en.wikipedia.org/wiki/File:Flag_of_India.svg",
+            "foundingYear": 1947,
+            "knownPhrase": "सत्यमेव जयते"
+        }
+    },
+    {
+        "id": "LANG-002",
+        "name": "Tibetan",
+        "description": "A language spoken by the ancient Turkic tribes which migrated into the Himalayas.",
+        "age": 1300,
+        "isUsed": true,
+        "startPeriod": "c.a. 700 c.e.",
+        "scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Om_Mani_Padme_Hum_mantra.svg/1920px-Om_Mani_Padme_Hum_mantra.svg.png",
+        "languageFamily": "sino-tibetan",
+        "knownPoets": [
+            "Milarepa",
+            "Tenzin-Gyatso",
+            "Kelden-Gyatso"
+        ],
+        "continent": "Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-002",
+            "currentLeader": "Xi Jinping",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+            "foundingYear": 1949,
+            "knownPhrase": "为人民服务"
+        }
+    },
+    {
+        "id": "LANG-003",
+        "name": "Serbian",
+        "description": "A Slavic language from the Dinarian Alps.",
+        "age": 800,
+        "isUsed": true,
+        "startPeriod": "c.a. 1200 c.e.",
+        "scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Serbian_Cyrillic_alphabet_%28%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0_%D1%9B%D0%B8%D1%80%D0%B8%D0%BB%D0%B8%D1%86%D0%B0%29.svg",
+        "languageFamily": "Slavic",
+        "knownPoets": [
+            "Petar Petrovic Njegos",
+            "Darinka Jevric",
+            "Jovan Jovanovic"
+        ],
+        "continent": "Europe",
+        "countryOfOrigin": {
+            "id": "CTRY-003",
+            "currentLeader": "Alexander Vucic",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+            "foundingYear": 2006,
+            "knownPhrase": "За слободу и част Отаџбине"
+        }
+    },
+    {
+        "id": "LANG-004",
+        "name": "Japanese",
+        "description": "A complicated concoction, stemming from an unlikely place.",
+        "age": 1300,
+        "isUsed": true,
+        "startPeriod": "c.a. 800 c.e.",
+        "scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Heibon-pp.10-11.jpg",
+        "languageFamily": "Altai",
+        "knownPoets": [
+            "Musashi Miyamoto",
+            "Murasaki Shikibu",
+            "Jun Tsuji"
+        ],
+        "continent": "Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-004",
+            "currentLeader": "Fumio Kishida",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+            "foundingYear": 1868,
+            "knownPhrase": "万歳"
+        }
+    },
+    {
+        "id": "LANG-005",
+        "name": "Standard-Mandarin-Chinese",
+        "description": "A tonal language spoken as the official language of the P.R.C.",
+        "age": 2500,
+        "isUsed": true,
+        "startPeriod": "c.a. 500 b.c.e.",
+        "scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Hanzi.svg",
+        "languageFamily": "sino-tibetan",
+        "knownPoets": [
+            "kong-zi",
+            "lao-zi",
+            "sun-zi"
+        ],
+        "continent": "Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-002",
+            "currentLeader": "Xi Jinping",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+            "foundingYear": 1949,
+            "knownPhrase": "为人民服务"
+        }
+    },
+    {
+        "id": "LANG-006",
+        "name": "Persian",
+        "description": "Another ancient language deep in history, and rich in culture.",
+        "age": 1300,
+        "isUsed": true,
+        "startPeriod": "c.a. 800 c.e.",
+        "scriptIMGUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYwTTvPWhbUF99_Q5BwUixdo6PruhjIv57MwyKhcmb8qPBIOn4yr7V6ByIp9Zj0K9LzHzpXHfF90evDnmzZzjF6TwE3JqHnwHnNyH5rB-nm9T8qHcRIKT02q_uu3xTCzv77SSfnZpCsYU/s1600/First+page+of+Kitab-i-Aqdas+-+handwriting+of+Abdu%27l-Baha-1.jpg",
+        "languageFamily": "Indo-Aryan",
+        "knownPoets": [
+            "Jalāl al-Dīn Muḥammad Rūmī",
+            "Farid ud-Din Attar",
+            "Ghiyāth al-Dīn Abū al-Fatḥ ʿUmar ibn Ibrāhīm Nīsābūrī"
+        ],
+        "continent": "Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-005",
+            "currentLeader": "Ali Khamenei",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/510px-Flag_of_Iran.svg.png",
+            "foundingYear": 1501,
+            "knownPhrase": "جنگ، جنگ، تا پیروزی"
+        }
+    },
+    {
+        "id": "LANG-007",
+        "name": "Arabic",
+        "description": "A very extensive language with quite the history.",
+        "age": 2500,
+        "isUsed": true,
+        "startPeriod": "c.a. 500 b.c.e.",
+        "scriptIMGUrl": "https://talkinarabic.com/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fbufag4ro%2Fproduction%2Fcb1073d722488a130d822921ae099a7cbe200c8e-1280x720.jpg%3Fq%3D70&w=1920&q=50",
+        "languageFamily": "semitic",
+        "knownPoets": [
+            "Abū ʻAbd Allāh Muḥammad ibn ʻArabī al-Ṭāʼī al-Ḥātimī",
+            "Abū al-ʿAlāʾ al-Maʿarrī ",
+            "Abū Nuwās al-Ḥasan ibn Hānī al-Ḥakamī"
+        ],
+        "continent": "Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-006",
+            "currentLeader": "Salman bin Abdulaziz",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1920px-Flag_of_Saudi_Arabia.svg.png",
+            "foundingYear": 1932,
+            "knownPhrase": "لَا إِلٰهَ إِلَّا الله مُحَمَّدٌ رَسُولُ الله"
+        }
+    },
+    {
+        "id": "LANG-008",
+        "name": "French",
+        "description": "A romantic language spoken by some of the greatest scientists know to Europe.",
+        "age": 1200,
+        "isUsed": true,
+        "startPeriod": "c.a. 850 c.e.",
+        "scriptIMGUrl": "https://media.istockphoto.com/id/157506315/fr/photo/les-deux-c%C3%B4t%C3%A9s-de-larm%C3%A9e-britannique-carte-postale-envoy%C3%A9-depuis-la-france-1915.jpg?s=612x612&w=is&k=20&c=r3eYHeY3j6jzfUJqHRrdGtpbCvRAz0w6-u0gKv742DQ=",
+        "languageFamily": "Romance",
+        "knownPoets": [
+            "Charles Baudelaire",
+            "Victor Hugo",
+            "Arthur Rimbaud"
+        ],
+        "continent": "Europe",
+        "countryOfOrigin": {
+            "id": "CTRY-007",
+            "currentLeader": "Emmanuel Macron",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png",
+            "foundingYear": 1792,
+            "knownPhrase": "Liberté, égalité, fraternité"
+        }
+    },
+    {
+        "id": "LANG-009",
+        "name": "Russian",
+        "description": "A Slavic language spoken in one of the, if not coldest place on earth.",
+        "age": 1160,
+        "isUsed": true,
+        "startPeriod": "862 c.e.",
+        "scriptIMGUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Russian_Cyrillic_alphabet.svg/1920px-Russian_Cyrillic_alphabet.svg.png",
+        "languageFamily": "Slavic",
+        "knownPoets": [
+            "Fjodor Dostojevsky",
+            "Leo Tolstoy",
+            "Alexander Pushkin"
+        ],
+        "continent": "Europe/Asia",
+        "countryOfOrigin": {
+            "id": "CTRY-008",
+            "currentLeader": "Vladimir Putin",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png",
+            "foundingYear": 1991,
+            "knownPhrase": "Нас Рать"
+        }
+    },
+    {
+        "id": "LANG-010",
+        "name": "Latin",
+        "description": "An ancient language known as the language of Europe's former glory.",
+        "age": 2700,
+        "isUsed": false,
+        "startPeriod": "c.a. 700 b.c.e.",
+        "scriptIMGUrl": "https://www.thoughtco.com/thmb/Sl1sBMHYlNM_WHsozrmQqncwNKU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-852354592-5c71dc9846e0fb0001f87ce0.jpg",
+        "languageFamily": "Indo-European",
+        "knownPoets": [
+            "Ovid",
+            "Horace",
+            "Virgil"
+        ],
+        "continent": "Europe",
+        "countryOfOrigin": {
+            "id": "CTRY-009",
+            "currentLeader": "Giorgia Meloni",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png",
+            "foundingYear": 1861,
+            "knownPhrase": "Senatus Populusque Romanus"
+        }
+    }
 ]
