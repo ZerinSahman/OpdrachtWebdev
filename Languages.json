@@ -16,6 +16,7 @@
         "continent": "Asia",
         "countryOfOrigin": {
             "id": "CTRY-001",
+            "name": "India",
             "currentLeader": "Modi",
             "countryFlagUrl": "https://en.wikipedia.org/wiki/File:Flag_of_India.svg",
             "foundingYear": 1947,
@@ -39,6 +40,7 @@
         "continent": "Asia",
         "countryOfOrigin": {
             "id": "CTRY-002",
+            "name": "China",
             "currentLeader": "Xi Jinping",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
             "foundingYear": 1949,
@@ -62,6 +64,7 @@
         "continent": "Europe",
         "countryOfOrigin": {
             "id": "CTRY-003",
+            "name": "Serbia",
             "currentLeader": "Alexander Vucic",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
             "foundingYear": 2006,
@@ -85,6 +88,7 @@
         "continent": "Asia",
         "countryOfOrigin": {
             "id": "CTRY-004",
+            "name": "Japan",
             "currentLeader": "Fumio Kishida",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
             "foundingYear": 1868,
@@ -108,6 +112,7 @@
         "continent": "Asia",
         "countryOfOrigin": {
             "id": "CTRY-002",
+            "name": "China",
             "currentLeader": "Xi Jinping",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
             "foundingYear": 1949,
@@ -131,6 +136,7 @@
         "continent": "Asia",
         "countryOfOrigin": {
             "id": "CTRY-005",
+            "name": "Iran",
             "currentLeader": "Ali Khamenei",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/510px-Flag_of_Iran.svg.png",
             "foundingYear": 1501,
@@ -154,6 +160,7 @@
         "continent": "Asia",
         "countryOfOrigin": {
             "id": "CTRY-006",
+            "name": "Saudi-Arabia",
             "currentLeader": "Salman bin Abdulaziz",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1920px-Flag_of_Saudi_Arabia.svg.png",
             "foundingYear": 1932,
@@ -177,6 +184,7 @@
         "continent": "Europe",
         "countryOfOrigin": {
             "id": "CTRY-007",
+            "name": "French",
             "currentLeader": "Emmanuel Macron",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png",
             "foundingYear": 1792,
@@ -200,6 +208,7 @@
         "continent": "Europe/Asia",
         "countryOfOrigin": {
             "id": "CTRY-008",
+            "name": "Russian",
             "currentLeader": "Vladimir Putin",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png",
             "foundingYear": 1991,
@@ -223,6 +232,7 @@
         "continent": "Europe",
         "countryOfOrigin": {
             "id": "CTRY-009",
+            "name": "Italy",
             "currentLeader": "Giorgia Meloni",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1920px-Flag_of_Italy.svg.png",
             "foundingYear": 1861,
