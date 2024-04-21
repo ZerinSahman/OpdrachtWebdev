@@ -30,7 +30,7 @@
             "id": "CTRY-001",
             "name": "India",
             "currentLeader": "Modi",
-            "countryFlagUrl": "https://en.wikipedia.org/wiki/File:Flag_of_India.svg",
+            "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png",
             "foundingYear": 1947,
             "knownPhrase": "सत्यमेव जयते"
         }
@@ -281,7 +281,7 @@
         "continent": "Europe",
         "countryOfOrigin": {
             "id": "CTRY-007",
-            "name": "French",
+            "name": "France",
             "currentLeader": "Emmanuel Macron",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1920px-Flag_of_France.svg.png",
             "foundingYear": 1792,
@@ -317,7 +317,7 @@
         "continent": "Europe/Asia",
         "countryOfOrigin": {
             "id": "CTRY-008",
-            "name": "Russian",
+            "name": "Russia",
             "currentLeader": "Vladimir Putin",
             "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png",
             "foundingYear": 1991,
