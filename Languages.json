@@ -145,7 +145,7 @@
     },
     {
         "id": "LANG-005",
-        "name": "Standard-Mandarin-Chinese",
+        "name": "Mandarin-Chinese",
         "description": "A tonal language spoken as the official language of the P.R.C.",
         "age": 2500,
         "isUsed": true,
